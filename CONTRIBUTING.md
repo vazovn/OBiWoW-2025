@@ -13,7 +13,7 @@ Thank you for contributing to this workshop! This guide will help you add your m
 ...
 ```
 
-Each workshop should have its own folder under the appropriate day.
+Each workshop should have its own folder under the appropriate day. Multi-day workshops are listed under the first day the workshop is held.
 
 ## How to Add Your Materials
 
@@ -27,11 +27,9 @@ git clone git@github.com:YOUR-USERNAME/OBiWoW-2025.git
 cd OBiWoW-2025
 ```
 
-### Step 3: Create Your Workshop Folder
-1. Navigate to the appropriate day folder (e.g., `Monday/`)
-2. Copy the `example-workshop/` folder as a template
-3. Rename it to match your workshop (e.g., `monday-metagenomics-assembly/`)
-4. Add your materials:
+### Step 3: Add to Your Workshop Folder
+1. Navigate to the appropriate day (e.g., `Monday/`) and project folder
+2. Add your materials:
    - Slides (PDF or PowerPoint)
    - Code/scripts
    - Data files (if small; use external links for large files)
