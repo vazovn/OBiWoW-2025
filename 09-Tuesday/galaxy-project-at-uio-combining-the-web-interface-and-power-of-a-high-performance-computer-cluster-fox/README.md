@@ -30,7 +30,7 @@ Nikolay Vazov, Torfinn Nome, Sabry Razick, Pubudu Saneth Samarakoon
 
 PPTX file here
 
-## Hands-on Session - basic
+## Hands-on Session - basics
 
 1. Download the [simple dataset to start](two-column-table.txt) to your laptop. 
 2. Log into Galaxy at (https://galaxy.educloud.no)
