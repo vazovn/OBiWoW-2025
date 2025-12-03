@@ -29,7 +29,7 @@ Nikolay Vazov, Torfinn Nome, Sabry Razick, Pubudu Saneth Samarakoon
 
 ## Presentation
 
-PPTX file here
+Open the [Galaxy presentation](https://docs.google.com/presentation/d/1nmJh4OO_JMljCk96xLYti--sYX1xxGzd/edit?usp=sharing&ouid=109401063488907514927&rtpof=true&sd=true)
 
 ## Hands-on Session - basics
 
