@@ -10,8 +10,9 @@ Nikolay Vazov, Torfinn Nome, Sabry Razick, Pubudu Saneth Samarakoon
    
 2. Before the start of the course it is recommended that all the participants :
    
-   -  Apply for the ec73 project in Educloud. Please follow the attached document : [Instructions to apply for the Galaxy project in Educloud](./GALAXY-FOX-portal-application.pdf). The user support will receive an e-mail with your application and will approve your membership to ec73. 
-       - <sub>_why do you need this?_ : The web platform Galaxy sends its calculations for execution to the High Performance Computing (HPC) cluster FOX. To optimize the performance and management, clusters require that all calculations (jobs) run in dedicated projects. All users must be members of a cluster project in order to be allowed to run cluster jobs. Galaxy on FOX uses project ec73 and this is the project all the users shall apply for.</sub>
+   -  Apply for the ec73 project in Educloud. Please follow the attached document : [Instructions to apply for the Galaxy project in Educloud](./GALAXY-FOX-portal-application.pdf). The user support will receive an e-mail with your application and will approve your membership to ec73.
+     
+        <sub>_why do you need this_ : The web platform Galaxy sends its calculations for execution to the High Performance Computing (HPC) cluster FOX. To optimize the performance and management, clusters require that all calculations (jobs) run in dedicated projects. All users must be members of a cluster project in order to be allowed to run cluster jobs. Galaxy on FOX uses project ec73 and this is the project all the users shall apply for.</sub>
        
    -  Set up two-factor authentication, often referred to as OTP (One Time Passcode). You can set this up using ID-porten and an authentication app on your mobile. Please refer to the following link for detailed instructions [Set up two-factor authentication](https://www.uio.no/english/services/it/research/platforms/edu-research/help/two-factor-authentication.html)
   
@@ -74,7 +75,11 @@ PPTX file here
       - Select `Visualize` from the top menu
       - Select Line chart (NVD3) and then `Convert on data X`
       - Select Pie Chart (NVD3) and then `Convert on data X`
+   
+If you want to try it again using different examples, try this: [A short introduction to Galaxy](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-short/tutorial.html)
 
 ## Hands-on Session - real examples
+
+- Process sample dataset using tools available in Galaxy portal
 
 ## Software Requirements
