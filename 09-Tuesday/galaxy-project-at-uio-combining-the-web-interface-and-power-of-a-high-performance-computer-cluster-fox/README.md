@@ -52,7 +52,7 @@ PPTX file here
       - Create
           - Select `Workflows` on the top menu and click on `+Create`
           - Select the tool group `Inputs` and then the tool `Input dataset`
-          - Select the tool group `Text Manipulation` and then the tool `Convert delimiters to TAB`
+          - Select the tool group `Text Manipulation` and then the tool `Convert delimiters to TAB`, with `Commas` selected from the `Convert all` parameter
           - Select the tool group `Text Manipulation` and then the tool `Line/Word/Character count of a dataset`
           - Click on the right upper corner pencil icon, give the workflow a name and save it by clicking on the disc icon
       - Run
