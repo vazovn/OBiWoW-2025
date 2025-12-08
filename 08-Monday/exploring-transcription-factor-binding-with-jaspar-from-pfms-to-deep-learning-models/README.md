@@ -4,3 +4,5 @@ JASPAR (https://jaspar.elixir.no/) is an open-access database that has provided 
 Damla Övek Baydar, Ieva Rauluseviciute
 ## Live Troubleshooting Session
 ## Software Requirements
+## Instructions
+We will use this colab notebook: [https://colab.research.google.com/drive/1c3Eq7n0a2EbHroOMDpe1EPJGb6uPbLVf?usp=sharing](https://colab.research.google.com/drive/1c3Eq7n0a2EbHroOMDpe1EPJGb6uPbLVf?usp=sharing)
