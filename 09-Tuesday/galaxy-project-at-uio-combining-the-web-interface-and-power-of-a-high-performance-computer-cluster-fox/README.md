@@ -94,3 +94,7 @@ If you want to try it again using different examples, try this: [A short introdu
 ## Software Requirements
 
 - Tools are available in the [Galaxy instance at Educloud](https://galaxy.educloud.no)
+
+## Useful Links
+
+- [WorkFlowHub - A registry for scientific computational workflows](https://workflowhub.eu)
